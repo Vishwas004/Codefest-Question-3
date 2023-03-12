@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menusign{
+    text-align: right;
+}
+.gocase{
+    background-color: #ff764a;
+    color: white;
+    box-shadow: 10% #ef2b00;
+}
+
+button{
+    background-color: black;
+    color: white;
+    padding: 2%;
+    border: none;
+}
+button:hover{
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 10px;
+}
+.listone{
+    font-weight: bold;
+    margin-left: -2%;
+}
+sectionone{
+    text-align: center;
+}
+span{
+    color: #ff5c25;
+}
+.sideline{
+    border-left: solid 2px #bbd8da;
+    border-right: solid 2px #bbd8da;
+}
+.sec2{
+    background-color: #c7e6e7;
+    padding: 3%;
+}
